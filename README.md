@@ -1,3 +1,4 @@
+Hi there!
 👋 Welcome to my GitHub profile, questions are open-source here!
 
 🎓 **Data Scientist** | 📊 **Mathematician** | 💡 Exploring the Universe one dataset at a time
