@@ -1,16 +1,43 @@
-## Hi there 👋
+# ferenikisavva
+👋 Welcome to my GitHub profile
 
-<!--
-**nicolesavva/nicolesavva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Fereniki 👋
 
-Here are some ideas to get you started:
+🎓 **Data Scientist** | 📊 **Mathematician** | 💡 Exploring the Universe one dataset at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I specialise in turning raw data into actionable intelligence using modern tools, statistical rigor, and creative problem-solving.
+
+---
+
+## 🚀 About Me
+
+- 🎓 MSc in Data Science & BSc in Mathematics  
+- 📌 Interested in machine learning, NLP, and business intelligence  
+- 🧠 Passionate about data storytelling and ethical AI  
+- 🌱 Currently exploring: Deep Learning, Time Series Forecasting  
+- ✨ Always eager to collaborate on meaningful projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, R, T-SQL, Markdown  
+**Tools & Frameworks:** Jupyter, pandas, scikit-learn, Power BI, Git  
+**Other:** Data Visualization, Feature Engineering, Model Optimization
+
+---
+
+## 📌 Featured Projects
+
+- 🔍 **[Employee Attrition Prediction](#)** – Built a model to predict workforce attrition using R
+- 🧬 **[Biomedical Text Processing](#)** – NLP pipeline for entity extraction in medical records
+- 📈 **[Customer Churn & Fraud Detection](#)** – Predictive modeling using Python
+- 📊 **[Business Intelligence & SQL Optimization](#)** – Database queries and reporting automation
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/fereniki-savva)  
+✉️ ferenikisavva@example.com 
+> “Mathematics is the poetry of logical ideas.” – Einstein
