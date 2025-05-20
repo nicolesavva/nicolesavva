@@ -40,5 +40,5 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/fereniki-savva)  
-✉️ ferenikisavva@example.com 
+✉️ nicolesavva02@gmail.com
 > “Mathematics is the poetry of logical ideas.” – Einstein
