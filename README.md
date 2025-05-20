@@ -21,9 +21,9 @@ Welcome to my GitHub! I specialise in turning raw data into actionable intellige
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, T-SQL, Markdown  
+**Languages:** Python, R, T-SQL
 **Tools & Frameworks:** Jupyter, pandas, scikit-learn, Power BI, Git  
-**Other:** Data Visualization, Feature Engineering, Model Optimization
+**Other:** Data Visualisation, Feature Engineering, Model Optimisation
 
 ---
 
