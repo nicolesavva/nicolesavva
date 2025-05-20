@@ -1,5 +1,5 @@
 # ferenikisavva
-👋 Welcome to my GitHub profile
+👋 Welcome to my GitHub profile, questions are open-source here!
 
 # Hi there, I'm Fereniki 👋
 
