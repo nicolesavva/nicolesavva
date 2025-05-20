@@ -5,7 +5,7 @@
 
 🎓 **Data Scientist** | 📊 **Mathematician** | 💡 Exploring the Universe one dataset at a time
 
-Welcome to my GitHub! I specialise in turning raw data into actionable intelligence using modern tools, statistical rigor, and creative problem-solving.
+Mathematician turned data scientist. I used to prove things were true. Now I prove they’re probably true, 95% of the time.
 
 ---
 
