@@ -1,4 +1,4 @@
-# ferenikisavva
+# Fereniki (Nicole) Savva
 👋 Welcome to my GitHub profile, questions are open-source here!
 
 # Hi there, I'm Fereniki 👋
@@ -21,8 +21,9 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, T-SQL
-**Tools & Frameworks:** Jupyter, pandas, scikit-learn, Power BI, Git  
+**Languages:** Python, SQL, R
+**Tools:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly
+**Tools** Excel, PowerPoint, MSSQL, SQLite, JIRA, SharePoint, Salesforce 
 **Other:** Data Visualisation, Feature Engineering, Model Optimisation
 
 ---
