@@ -5,7 +5,7 @@
 
 🎓 **Data Scientist** | 📊 **Mathematician** | 💡 Exploring the Universe one dataset at a time
 
-Mathematician turned data scientist. I used to prove things were true. Now I prove they’re probably true, 95% of the time.
+Mathematician turned data scientist. I used to prove things with certainty. Now I settle for 95% confidence and call it a day.
 
 ---
 
