@@ -1,8 +1,6 @@
 # Fereniki (Nicole) Savva
 👋 Welcome to my GitHub profile, questions are open-source here!
 
-# Hi there, I'm Fereniki 👋
-
 🎓 **Data Scientist** | 📊 **Mathematician** | 💡 Exploring the Universe one dataset at a time
 
 Mathematician turned data scientist. I used to prove things with certainty. Now I settle for 95% confidence and call it a day.
