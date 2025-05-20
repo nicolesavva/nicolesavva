@@ -22,8 +22,8 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, SQL, R
-- **Tools:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly
-- **Tools** Excel, PowerPoint, MSSQL, SQLite, JIRA, SharePoint, Salesforce 
+- **Frameworks:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly
+- **Tools:** Excel, PowerPoint, MSSQL, SQLite, JIRA, SharePoint, Salesforce 
 - **Other:** Data Visualisation, Feature Engineering, Model Optimisation
 
 ---
