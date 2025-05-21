@@ -9,7 +9,7 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 
 ## 🚀 About Me
 
-- 🎓 MSc in Data Science | BSc in Mathematics — combining strong analytical foundations with applied machine learning
+- 🎓 MSc in Data Science | BSc in Mathematics - combining strong analytical foundations with applied machine learning
 - 📌 Practical experience in supervised learning, time series forecasting, and anomaly detection using Python and SQL
 - 📊 Experience building interpretable models, automating workflows, and extracting insights from structured and unstructured data
 - 🧪 Exposure to NLP, classification models, and BI tools across academic and consulting environments
