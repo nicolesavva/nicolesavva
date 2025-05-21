@@ -39,4 +39,4 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/fereniki-savva)  
 ✉️ nicolesavva02@gmail.com
-> “If you can’t explain it simply, you don’t understand it well enough.” – Einstein
+> “If you can’t explain it simply, you don’t understand it well enough.” - Einstein
