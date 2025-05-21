@@ -28,10 +28,10 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 
 ## 📌 Featured Projects
 
-- 🔍 **[Employee Attrition Prediction](#)** – Built a model to predict workforce attrition using R
-- 🧬 **[Biomedical Text Processing](#)** – NLP pipeline for entity extraction in medical records
-- 📈 **[Customer Churn & Fraud Detection](#)** – Predictive modeling using Python
-- 📊 **[Business Intelligence & SQL Optimization](#)** – Database queries and reporting automation
+- 🔍 **[Employee Attrition Prediction](#)** -  Built a model to predict workforce attrition using R
+- 🧬 **[Biomedical Text Processing](#)** -  NLP pipeline for entity extraction in medical records
+- 📈 **[Customer Churn & Fraud Detection](#)** - Predictive modeling using Python
+- 📊 **[Business Intelligence & SQL Optimization](#)** - Database queries and reporting automation
 
 ---
 
