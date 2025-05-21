@@ -12,7 +12,7 @@ Mathematician turned data scientist. I used to prove things with certainty. Now 
 - 🎓 MSc in Data Science | BSc in Mathematics — combining strong analytical foundations with applied machine learning
 - 📌 Practical experience in supervised learning, time series forecasting, and anomaly detection using Python and SQL
 - 📊 Experience building interpretable models, automating workflows, and extracting insights from structured and unstructured data
-- 🧪 Exposure to NLP (BERT, LSTM), classification models, and BI tools across academic and consulting environments
+- 🧪 Exposure to NLP, classification models, and BI tools across academic and consulting environments
 - 📈 Currently strengthening expertise in deep learning, forecasting pipelines, and production-level data workflows
 
 ---
